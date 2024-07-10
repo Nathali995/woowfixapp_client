@@ -1,0 +1,12 @@
+export {default as Card} from './a-card.png';
+export {default as Car} from './a-car.png';
+export {default as House} from './a-house.png';
+export {default as Inbox} from './inbox.png';
+export {default as Profile} from './profile.png';
+export {default as WoowFixLogo} from './woowfix-logo.png';
+export {default as FacebookLogo} from './facebook-logo.png';
+export {default as GoogleLogo} from './google-logo.png';
+export {default as AppleLogo} from './apple-logo.png';
+export {default as ProfileFilled} from './profile-filled.png';
+export {default as Star} from './star-filled.png';
+export {default as PositionMarker} from './position-marker.png';
